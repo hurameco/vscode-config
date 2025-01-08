@@ -13,10 +13,11 @@
 }
 
 /* Code canvas top shadow */
-.monaco-editor .scroll-decoration {
+/*.monaco-editor .scroll-decoration {
     box-shadow: 0px 0px 20px rgba(0, 0, 0, .75) !important;
     top: -6px !important;
 }
+/*
 
 /* Toolbars when tabs are enabled. */
 .monaco-workbench .part.editor>.content .editor-group-container>.title .editor-actions {
@@ -57,10 +58,12 @@
 }
 
 /* Sidebar top shadow */
+/*
 .monaco-scrollable-element>.shadow.top {
     box-shadow: 0px 0px 10px rgba(0,0,0,.75) !important;
     top: -3px !important;
 }
+*/
 
 /* Sidebar title */
 .composite.title {
@@ -84,6 +87,7 @@
 }
 
 /* Scroll Bar */
+/*
 .slider {
     position: absolute !important;
     right: 1px !important;
@@ -91,6 +95,7 @@
     background: #bc9abc !important;
     left: auto !important;
 }
+*/
 
 .codicon-toolbar-more, .codicon-word-wrap {
     display: block !important;
